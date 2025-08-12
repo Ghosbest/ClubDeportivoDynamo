@@ -316,7 +316,7 @@ const galeriaData = [
         "title": "Competencia: BOM BOM BUM Sub-9A" 
     },
     {
-        "id": 51,
+        "id": 52,
         "type": "image",
         "src": "../public/img/galeria/51.jpg",
         "alt": "Dynamo Recuerdos: Victoria Dynamo, Sub-14 Division B",
@@ -328,3 +328,4 @@ const galeriaData = [
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = galeriaData;
 }
+
